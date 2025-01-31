@@ -1,0 +1,9 @@
+pandas
+numpy
+onnx 
+tf2onnx 
+opencv-python
+tensorflow
+numpy 
+matplotlib 
+scikit-learn
